@@ -1,11 +1,11 @@
 <h1 align="center">Olá 👋, sou o Vanor Cardozo</h1>
 <h3 align="center">Estudante de Desenvolvimento de Software</h3>
 
-- 🌱 Atualmente estou aprendendo **MySQL | NODE.js**
+- 🌱 Atualmente estou aprendendo **MySQL | NODE.js | TS**
 
 - 👯 I’m looking to collaborate on **APP Receitaria**
 
-- 💬 Pergunte-me sobre **Design thinking, arquitetura e comida**
+- 💬 Pergunte-me sobre **Qualquer coisa! gosto de conversar e trocar experiências**
 
 - 📫 Como me encontrar **vanor.fc@gmail.com**
 
