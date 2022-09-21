@@ -5,7 +5,7 @@
 <h3 align="left">Estudante de Desenvolvimento de Software</h3>
 <br>
 
-- 🌱 Atualmente estou aprendendo **TypeScript | React-Native**
+- 🌱 Atualmente estou aprendendo **TypeScript | React Native**
 
 - 💬 Pergunte-me sobre **Qualquer assunto...gosto de conversar e trocar experiências**
 
