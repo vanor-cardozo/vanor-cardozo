@@ -5,9 +5,9 @@
 <h3 align="left">Estudante de Desenvolvimento de Software</h3>
 <br>
 
-- 🌱 Atualmente estou aprendendo **TypeScript | Swagger**
+- 🌱 Atualmente estou aprendendo **TypeScript | React-Native**
 
-- 💬 Pergunte-me sobre **API Rest, Sequelize, JS e tecnologia...gosto de conversar e trocar experiências**
+- 💬 Pergunte-me sobre **Qualquer assunto...gosto de conversar e trocar experiências**
 
 - ⚡ hobbies **games, gastronomia, arquitetura e urbanismo**
 
