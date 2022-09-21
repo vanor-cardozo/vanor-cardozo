@@ -9,7 +9,7 @@
 
 - 💬 Pergunte-me sobre **Qualquer assunto...gosto de conversar e trocar experiências**
 
-- ⚡ hobbies **games, gastronomia, arquitetura e urbanismo**
+- ⚡ hobbies **games, gastronomia, arquitetura e viagens**
 
 - 📫 Como me encontrar **vanor.fc@gmail.com**
 <br>
