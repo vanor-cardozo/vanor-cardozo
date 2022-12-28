@@ -2,7 +2,7 @@
 
 
 <h1 align="left">Vanor Cardozo</h1>
-<h3 align="left">Estudante de Desenvolvimento de Software</h3>
+<h3 align="left">Desenvolvedor Front-End | React | TS | Azure</h3>
 <br>
 
 - 🌱 Atualmente estou aprendendo **TypeScript | React Native**
